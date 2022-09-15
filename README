@@ -1,0 +1,6 @@
+## Required steps
+
+- install latest foundry
+- `ln -sf /path/to/your/protocol-monorepo sf` 
+- update json rpc url if needed
+- `forge test`
